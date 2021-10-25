@@ -91,7 +91,12 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-  
+  }
+  #why img{
+    width: 50%;
+  }
+  div{
+    font-size: 35px;
   }
   .row h1{
     font-size: 60px;
